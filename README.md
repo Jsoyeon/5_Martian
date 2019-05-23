@@ -5,7 +5,7 @@
 
 
 지도교수 : 조영주 교수님(Cho Young-ju)        csjyj@chosun.ac.kr\
-참여학생 : 20164260 정소연(Jeong So-yeon)  20134590 문종진(Moon Jong-jin)  20134860 이재훈(Lee Jae-hoon)
+참여학생 : 20164260 정소연(Jeong So-yeon)\  20134590 문종진(Moon Jong-jin)\  20134860 이재훈(Lee Jae-hoon)
            
            
 <태양계 학습 - Solar System Studying>\
