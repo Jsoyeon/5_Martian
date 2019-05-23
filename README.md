@@ -23,3 +23,4 @@ Solar System Studying, 즉 SSS는 오프닝, 메인 스테이지(시작 스테�
 
 5) 태양계 복습(Quiz)
 
+프로젝트에 대해서는 assets, packages, projectsettings 파일만 업로드 예정입니다.
