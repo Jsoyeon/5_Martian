@@ -11,7 +11,7 @@
 <태양계 학습 - Solar System Studying>\
 : 가상현실(Virtual Reality)를 사용하여 사용자가 간접적으로 태양계에 대해 생동감있게 살펴보고 관련 지식을 얻을 수 있는 콘텐츠.
 
-Solar System Studying, 즉 SSS는 오프닝, 메인 스테이지(시작 스테이지), 체험 가능한 3개의 스테이지로 구성된다.
+Solar System Studying, 즉 SSS는 오프닝, 메인 스테이지(시작 스테이지), 체험 가능한 3개의 스테이지로 구성되어 있습니다.
 
 1) 오프닝
 
